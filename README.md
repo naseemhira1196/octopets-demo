@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐕 Octopets
 
 A simple web app for discovering and sharing pet-friendly homes, parks, cafés, and custom venues for your fur babies.
@@ -215,3 +216,7 @@ azd up
 ## 💼 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+=======
+# octopets-demo
+sre-agent demo
+>>>>>>> 94c2101de3c720dfebfc8a202c6047261e44a585
